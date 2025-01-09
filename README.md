@@ -9,3 +9,4 @@
 #### 3.Start the server: ```npm start```
 #### 4.Use Postman or any API client to test the endpoints.
 
+## Documentation Publish Link -- https://documenter.getpostman.com/view/39216913/2sAYQUptiS
